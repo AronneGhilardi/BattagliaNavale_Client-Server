@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleshipMpServer", "BattleshipMpServer\BattleshipMpServer.csproj", "{1A3ECD0C-BF98-4A4D-8741-9AEDE662CA86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleshipMpClient", "BattleshipMpClient\BattleshipMpClient.csproj", "{8E357E80-F113-415F-A83C-94C8CBF68E6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A3ECD0C-BF98-4A4D-8741-9AEDE662CA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3ECD0C-BF98-4A4D-8741-9AEDE662CA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3ECD0C-BF98-4A4D-8741-9AEDE662CA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3ECD0C-BF98-4A4D-8741-9AEDE662CA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E357E80-F113-415F-A83C-94C8CBF68E6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E357E80-F113-415F-A83C-94C8CBF68E6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E357E80-F113-415F-A83C-94C8CBF68E6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E357E80-F113-415F-A83C-94C8CBF68E6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA68C59-99EF-4DBC-AB68-88A9D4296FBB}
+	EndGlobalSection
+EndGlobal
